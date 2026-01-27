@@ -1,7 +1,7 @@
-<h1 align="center">8teen</h1>
+<h1 align="center">george</h1>
 
 <p align="center">
-  <i>Newcastle, UK • 3D Modeller & UI Developer</i>
+  <i>Newcastle, UK // 3D Modeller & UI Developer</i>
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ---
 
-## Portfolio
+## // Portfolio
 **GTA Weapon Models**  
 https://your-portfolio-link-here.com
 
 ---
 
-## Skills & Tools
+## // Skills & Tools
 
 ### 3D / Modding
 <p>
@@ -34,7 +34,7 @@ https://your-portfolio-link-here.com
 
 ---
 
-## GitHub Stats
+## // GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pleqez004&show_icons=true&hide_title=true&hide_border=true&theme=dark" />
 </p>
@@ -46,5 +46,5 @@ https://your-portfolio-link-here.com
 ---
 
 <p align="center">
-  <i>Focused on quality, performance, and clean workflows.</i>
+  <i>snt.onl</i>
 </p>
