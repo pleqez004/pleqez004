@@ -36,18 +36,6 @@ https://www.gta5-mods.com/users/Pleqez
   <img src="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
----
-
-## // GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pleqez004&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleqez004&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
 
 
 ## // Contact
