@@ -49,9 +49,9 @@ https://www.gta5-mods.com/users/Pleqez
 
 ---
 
-## // Activity
+## // Contact
 <p align="center">
-  <img src="https://github.com/pleqez004/pleqez004/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://lanyard.cnrad.dev/api/1147116997021270027?theme=dark&bg=000000&borderRadius=8px" />
 </p>
 
 ---
