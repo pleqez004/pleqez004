@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=420&lines=george;3D+Modeller+%26+UI+Developer;GTA+V+Weapon+Artist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=420&lines=george;3D+Modeller+%26+UI+Developer;" />
 </h1>
 
 <p align="center">
