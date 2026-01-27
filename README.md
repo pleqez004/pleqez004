@@ -59,9 +59,9 @@ https://www.gta5-mods.com/users/Pleqez
 <details>
   <summary><b>// Focus</b></summary>
 
-  - GTA V weapon & asset creation  
-  - Game-ready topology & optimization  
-  - Clean UI and functional tooling  
+  - Learning C#
+  - Excelling in FiveM 3D Modifications  
+  - Creating Clean UI's
 
 </details>
 
