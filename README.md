@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>Newcastle, UK // 3D Modeller & UI Developer</i>
+  <i>Newcastle, UK // 3D Modeller</i>
 </p>
 
 <p align="center">
