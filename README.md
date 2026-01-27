@@ -40,7 +40,7 @@ https://www.gta5-mods.com/users/Pleqez
 
 ## // GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pleqez004&hide_border=true&theme=transparent&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pleqez004&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
@@ -49,9 +49,10 @@ https://www.gta5-mods.com/users/Pleqez
 
 ---
 
+
 ## // Contact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleqez004&layout=compact&hide_border=true&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
+  <img src="https://lanyard.cnrad.dev/api/1147116997021270027?theme=dark&bg=000000&borderRadius=8px" />
 </p>
 
 ---
