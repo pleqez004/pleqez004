@@ -23,17 +23,17 @@ https://www.gta5-mods.com/users/Pleqez
 ## // Skills & Tools
 
 ### 3D / Modding
-<p>
-  <img src="https://img.shields.io/badge/CodeWalker-GTA%20V-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blender-3D-444444?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/3DS%20Max-Autodesk-444444?style=for-the-badge&logo=autodesk&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeWalker-GTA%20V-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/3DS%20Max-Autodesk-green?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ### Programming
-<p>
-  <img src="https://img.shields.io/badge/C%23-.NET-444444?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Code-444444?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-JS-444444?style=for-the-badge&logo=react&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Code-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ---
