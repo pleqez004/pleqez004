@@ -40,7 +40,7 @@ https://www.gta5-mods.com/users/Pleqez
 
 ## // GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pleqez004&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=pleqez004&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
