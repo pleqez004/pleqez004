@@ -1,61 +1,50 @@
-
+<h1 align="center">8teen</h1>
 
 <p align="center">
-  <i>8teen // Newcastle, UK // 3D Modeller & UI Guy</i>
+  <i>Newcastle, UK • 3D Modeller & UI Developer</i>
 </p>
 
 <p align="center">
-  I build high-quality GTA weapon models, game assets, and clean UI — blending creativity with code.
+  Creating GTA V weapon models, game assets, and clean user interfaces.
 </p>
 
 ---
 
-## 🔫 GTA Gun Model Portfolio
-🎯 **Check out my work here:**  
-👉 [GTA Weapon Portfolio](https://your-portfolio-link-here.com)
-
-*(Includes custom GTA V weapon models, in-game ready assets & renders)*
+## Portfolio
+**GTA Weapon Models**  
+https://your-portfolio-link-here.com
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-### 🎮 Game Modding & 3D
-- **CodeWalker** – GTA V asset & map editing
-- **Blender** – High & low poly modeling, UVs, baking
-- **3DS Max** – Asset creation & pipeline work
-- **Weapon Modeling** – GTA V-ready guns, props & attachments
+### 3D / Modding
+<p>
+  <img src="https://img.shields.io/badge/CodeWalker-GTA%20V-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/3DS%20Max-Autodesk-green?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
 
-### 💻 Programming & Development
-- **C#** – Game scripting & tools
-- **Python** – Automation, tools, utilities
-- **React** – Modern UI & frontend development
-
-### 🎨 UI / Design
-- Game UI & HUD concepts  
-- Clean, minimal interfaces  
-- UX-focused layouts
+### Programming
+<p>
+  <img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Code-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
-## 🚀 What I'm Into
-- GTA V modding & asset creation  
-- Game-ready 3D workflows  
-- Tools that speed up dev & modding  
-- UI that *actually* feels good to use  
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pleqez004&show_icons=true&hide_title=true&hide_border=true&theme=dark" />
+</p>
 
----
-
-## 📫 Contact
-If you’re interested in collaborating, commissioning, or just checking out my work:
-- 💬 GitHub Issues / Discussions
-- 🌐 Portfolio: *link above*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleqez004&layout=compact&hide_border=true&theme=dark" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Building cool stuff, one asset at a time.</i>
+  <i>Focused on quality, performance, and clean workflows.</i>
 </p>
-
-
-
