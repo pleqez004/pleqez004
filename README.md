@@ -4,15 +4,11 @@
   <i>Newcastle, UK // 3D Modeller & UI Developer</i>
 </p>
 
-<p align="center">
-  Creating GTA V weapon models, game assets, and clean user interfaces.
-</p>
-
 ---
 
 ## // Portfolio
 **GTA Weapon Models**  
-https://your-portfolio-link-here.com
+https://www.gta5-mods.com/users/Pleqez
 
 ---
 
