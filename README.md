@@ -57,17 +57,6 @@ https://www.gta5-mods.com/users/Pleqez
 
 ---
 
-<details>
-  <summary><b>// Focus</b></summary>
-
-  - Learning C#
-  - Excelling in FiveM 3D Modifications  
-  - Creating Clean UI's
-
-</details>
-
----
-
 <p align="center">
   <sub>snt.onl</sub>
 </p>
