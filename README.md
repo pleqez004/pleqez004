@@ -1,7 +1,13 @@
-<h1 align="center">george</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3500&pause=800&center=true&vCenter=true&width=420&lines=george;3D+Modeller+%26+UI+Developer;GTA+V+Weapon+Artist" />
+</h1>
 
 <p align="center">
   <i>Newcastle, UK // 3D Modeller & UI Developer</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pleqez004&style=flat&color=555555" />
 </p>
 
 ---
@@ -15,14 +21,14 @@ https://www.gta5-mods.com/users/Pleqez
 ## // Skills & Tools
 
 ### 3D / Modding
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/CodeWalker-GTA%20V-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/3DS%20Max-Autodesk-green?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ### Programming
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Code-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -41,6 +47,17 @@ https://www.gta5-mods.com/users/Pleqez
 
 ---
 
+<details>
+  <summary><b>// Focus</b></summary>
+
+  - GTA V weapon & asset creation  
+  - Game-ready topology & optimization  
+  - Clean UI and functional tooling  
+
+</details>
+
+---
+
 <p align="center">
-  <i>snt.onl</i>
+  <sub>snt.onl</sub>
 </p>
