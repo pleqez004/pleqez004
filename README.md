@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=700&center=true&vCenter=true&width=450&color=cf291d&lines=george;3D+Modeller+%26+UI+Developer;GTA+V+Weapon+Artist" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=700&center=true&vCenter=true&width=450&color=cf291d&lines=george;8teen" 
   />
 </h1>
 
