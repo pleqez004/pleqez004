@@ -1,11 +1,9 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=700&center=true&vCenter=true&width=450&color=cf291d&lines=george;8teen" 
-  />
+george
 </h1>
 
 <p align="center">
-  <i>Newcastle, UK // 3D Modeller</i>
+  <i>UK // 3D Modeller</i>
 </p>
 
 <p align="center">
